@@ -1,0 +1,26 @@
+{
+  "name": "@attibe/data-structure",
+  "version": "0.1.0-alpha.0",
+  "description": "Contains data structures for managing and manipulating data groups.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Attibee/AttibeeJS-Data-Structure.git"
+  },
+  "keywords": [
+    "data",
+    "structure"
+  ],
+  "author": "Anthony Massie",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Attibee/AttibeeJS-Data-Structure/issues"
+  },
+  "homepage": "https://github.com/Attibee/AttibeeJS-Data-Structure#readme",
+  "dependencies": {
+    "@attibee/data-structure": "^0.1.0-alpha.0"
+  }
+}

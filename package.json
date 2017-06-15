@@ -1,5 +1,5 @@
 {
-  "name": "@attibe/data-structure",
+  "name": "@attibee/data-structure",
   "version": "0.1.0-alpha.0",
   "description": "Contains data structures for managing and manipulating data groups.",
   "main": "index.js",
@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/Attibee/AttibeeJS-Data-Structure/issues"
   },
-  "homepage": "https://github.com/Attibee/AttibeeJS-Data-Structure#readme",
-  "dependencies": {
-    "@attibee/data-structure": "^0.1.0-alpha.0"
-  }
+  "homepage": "https://github.com/Attibee/AttibeeJS-Data-Structure#readme"
 }
